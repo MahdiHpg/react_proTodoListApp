@@ -15,11 +15,11 @@ export const router = createBrowserRouter([
         element: <TodoLists />,
       },
       {
-        path: "viewTodo/:id",
+        path: "/react_proTodoListApp/viewTodo/:id",
         element: <ViewTodo />,
       },
       {
-        path: "editTodo/:id",
+        path: "/react_proTodoListApp/editTodo/:id",
         element: <EditTask />,
       },
     ],
