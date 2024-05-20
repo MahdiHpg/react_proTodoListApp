@@ -1,0 +1,64 @@
+@font-face {
+  font-family: "vazir";
+  src: url("../fonts/vazir/Vazir.eot");
+  src: url("../fonts/vazir/Vazir.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/vazir/Vazir.woff2") format("woff2"),
+    url("../fonts/vazir/Vazir.woff") format("woff"),
+    url("../fonts/vazir/Vazir.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "tanha";
+  src: url("../fonts/tanha/Tanha.eot");
+  src: url("../fonts/tanha/Tanha.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/tanha/Tanha.woff2") format("woff2"),
+    url("../fonts/tanha/Tanha.woff") format("woff"),
+    url("../fonts/tanha/Tanha.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IRANSansXFaNum";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/iranSans/IRANSansXFaNum-Bold.woff") format("woff"),
+    url("../fonts/iranSans/IRANSansXFaNum-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "IRANSansXFaNum";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/iranSans/IRANSansXFaNum-Regular.woff") format("woff"),
+    url("../fonts/iranSans/IRANSansXFaNum-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Nazanin";
+  src: url("../fonts/nazanin/BNazanin.eot");
+  src: url("../fonts/nazanin/BNazanin.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/nazanin/BNazanin.woff2") format("woff2"),
+    url("../fonts/nazanin/BNazanin.woff") format("woff"),
+    url("../fonts/nazanin/BNazanin.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IranNastaliq";
+  src: url("../fonts/nastaliq/IranNastaliq.eot");
+  src: url("../fonts/nastaliq/IranNastaliq.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/nastaliq/IranNastaliq.woff2") format("woff2"),
+    url("../fonts/nastaliq/IranNastaliq.woff") format("woff"),
+    url("../fonts/nastaliq/IranNastaliq.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
