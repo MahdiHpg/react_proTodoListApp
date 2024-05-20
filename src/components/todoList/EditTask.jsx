@@ -13,7 +13,7 @@ const EditTask = () => {
 
   const navigate = useNavigate();
   const handleNavigate = () => {
-    navigate(`/viewTodo/${editId}`);
+    navigate(`/react_proTodoListApp/viewTodo/${editId}`);
   };
 
   // Todo: edit a task
