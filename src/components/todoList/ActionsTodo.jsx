@@ -51,7 +51,7 @@ const ActionsTodo = ({
           confirmButtonText: `${labelsByLang?.deleteConfirmedOKSwal}`,
         });
         setTasks(filterTasks);
-        viewSide && navigate("/");
+        viewSide && navigate("/react_proTodoListApp/");
       }
     });
   };
