@@ -51,7 +51,7 @@ const TodoLists = () => {
             ))}
         </ul>
         {tasks.length === 0 && (
-          <li className="tasksLists text-center">
+          <li className="tasksLists text-center text-red-400">
             {labelsByLang?.noExistTodo}
           </li>
         )}

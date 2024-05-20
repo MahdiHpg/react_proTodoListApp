@@ -1,6 +1,6 @@
 export const langsArrays = [
-  { value: "per", label: "فارسی", flag: "/src/assets/flags/iran-flag.png" },
-  { value: "EN", label: "EN", flag: "/src/assets/flags/eng-flag.jpg" },
+  { value: "per", label: "فارسی", flag: "/img/flags/iran-flag.png" },
+  { value: "EN", label: "EN", flag: "/img/flags/eng-flag.jpg" },
 ];
 
 export const langPerArrays = {

@@ -31,7 +31,7 @@ const MainLayout = () => {
       </div>
 
       {/* add new task - modal */}
-      {location.pathname === "/" && <AddNewTask />}
+      {location.pathname === "/react_proTodoListApp/" && <AddNewTask />}
       <ModalAddNewTask />
     </>
   );
