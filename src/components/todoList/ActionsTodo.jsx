@@ -66,7 +66,7 @@ const ActionsTodo = ({
       {!viewSide ? (
         <UseTooltip
           Tag={"Link"}
-          linkPath={`/viewTodo/${id}`}
+          linkPath={`/react_proTodoListApp/viewTodo/${id}`}
           className={"viewBtn bg-blue-900 p-2 rounded-lg"}
           Icon={RiSearchEyeLine}
           name={"actionView"}
@@ -78,7 +78,7 @@ const ActionsTodo = ({
       ) : (
         <UseTooltip
           Tag={"Link"}
-          linkPath={"/"}
+          linkPath={"/react_proTodoListApp/"}
           className={"viewBtn bg-blue-900 p-2 rounded-lg"}
           Icon={MdArrowBack}
           name={"backToHome"}
@@ -91,7 +91,7 @@ const ActionsTodo = ({
       {/* edit */}
       <UseTooltip
         Tag={"Link"}
-        linkPath={`/editTodo/${id}`}
+        linkPath={`/react_proTodoListApp/editTodo/${id}`}
         className={"viewBtn bg-orange-800 p-2 rounded-lg"}
         Icon={GrEdit}
         name={"actionEdit"}
