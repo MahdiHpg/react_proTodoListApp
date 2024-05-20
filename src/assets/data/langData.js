@@ -1,13 +1,16 @@
+import iranFlag from "../../assets/flags/iran-flag.png";
+import engFlag from "../../assets/flags/eng-flag.jpg";
+
 export const langsArrays = [
   {
     value: "per",
     label: "فارسی",
-    flag: "react_proTodoListApp/img/flags/iran-flag.png",
+    flag: iranFlag,
   },
   {
     value: "EN",
     label: "EN",
-    flag: "react_proTodoListApp/img/flags/eng-flag.jpg",
+    flag: engFlag,
   },
 ];
 
