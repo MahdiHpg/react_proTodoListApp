@@ -2,12 +2,12 @@ export const langsArrays = [
   {
     value: "per",
     label: "فارسی",
-    flag: "../../../img/flags/iran-flag.png",
+    flag: "react_proTodoListApp/img/flags/iran-flag.png",
   },
   {
     value: "EN",
     label: "EN",
-    flag: "../../../img/flags/eng-flag.jpg",
+    flag: "react_proTodoListApp/img/flags/eng-flag.jpg",
   },
 ];
 
