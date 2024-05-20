@@ -6,12 +6,12 @@ import EditTask from "../components/todoList/EditTask";
 
 export const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/react_proTodoListApp/",
     element: <App />,
     errorElement: <div>مشکل مشکل مشکل</div>,
     children: [
       {
-        path: "/",
+        path: "/react_proTodoListApp/",
         element: <TodoLists />,
       },
       {
